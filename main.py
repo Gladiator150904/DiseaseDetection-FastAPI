@@ -44,79 +44,79 @@ DISEASE_NAMES = {
 
 # Model URLs and Paths
 LEAF_MODEL_URL = "https://drive.google.com/uc?id=1_pOBUEVW4oaMeKRrMhfvNtXAkXPRmYPy"
-LEAF_MODEL_PATH = "../saved_models/leaf_model.keras"
+LEAF_MODEL_PATH = "./saved_models/leaf_model.keras"
 
 PLANT_MODEL_URL = "https://drive.google.com/uc?id=1ZpFx7_dX3Td9peM9xDLs6-anKxvkEMrp"
-PLANT_MODEL_PATH = "../saved_models/plant_model.keras"
+PLANT_MODEL_PATH = "./saved_models/plant_model.keras"
 
 DISEASE_MODELS = {
      'Apple': {
         'URL': "https://drive.google.com/uc?id=1RmerEoE0HE-pxclLdTfn86Tq7fviYP4i",
-        'PATH': "../saved_models/diseases/Apple.keras"
+        'PATH': "./saved_models/diseases/Apple.keras"
     },
     'Bell Pepper': {
         'URL':"https://drive.google.com/uc?id=18vrJe7UGm3aToGEUldGFLnui4Wa8fEMY",
-        'PATH': "../saved_models/diseases/Bell Pepper.keras"
+        'PATH': "./saved_models/diseases/Bell Pepper.keras"
     },
     'Cherry': {
         'URL': "https://drive.google.com/uc?id=1uYtnaMnso11SMUWQfOF72-V47TWB0DzA",
-        'PATH': "../saved_models/diseases/Cherry.keras"
+        'PATH': "./saved_models/diseases/Cherry.keras"
     },
     'Corn': {
         'URL': "https://drive.google.com/uc?id=1ALe1R1H15HaLLsnVlTQ5XWZlUhU66Uvk",
-        'PATH': "../saved_models/diseases/Corn.keras"
+        'PATH': "./saved_models/diseases/Corn.keras"
     },
     'Cucumber': {
         'URL': "https://drive.google.com/uc?id=1WNf0GDaR4w5GoforiLci0T8QAtmkMsgm",
-        'PATH': "../saved_models/diseases/Cucumber.keras"
+        'PATH': "./saved_models/diseases/Cucumber.keras"
     },
     'Grape': {
         'URL': "https://drive.google.com/uc?id=1COK6KEdVUTaF7sXt3kQeDDCO-TxSLFpa",
-        'PATH': "../saved_models/diseases/Grape.keras"
+        'PATH': "./saved_models/diseases/Grape.keras"
     },
     'Guava': {
         'URL': "https://drive.google.com/uc?id=1OdRJL8pSVuM1ma7e1-Al12YTHiLqnz7y",
-        'PATH': "../saved_models/diseases/Guava.keras"
+        'PATH': "./saved_models/diseases/Guava.keras"
     },
     'Lemon': {
         'URL': "https://drive.google.com/uc?id=1ETvaMVyJSBYJjT9Rz0ufB11FW2twVSRE",
-        'PATH': "../saved_models/diseases/Lemon.keras"
+        'PATH': "./saved_models/diseases/Lemon.keras"
     },
     'Mango': {
         'URL': "https://drive.google.com/uc?id=1nb0ftn-ZZGNfsbvXxKoMsPhVYRhz0Zcg",
-        'PATH': "../saved_models/diseases/Mango.keras"
+        'PATH': "./saved_models/diseases/Mango.keras"
     },
     'Peach': {
         'URL': "https://drive.google.com/uc?id=1f-WHYQLeI2ywgqE0c-xMCyBOhUdjFH3B",
-        'PATH': "../saved_models/diseases/Peach.keras"
+        'PATH': "./saved_models/diseases/Peach.keras"
     },
     'Potato': {
         'URL': "https://drive.google.com/uc?id=1DpooEMYHjlWCV6BZ9B8Rn5hWuMeew0OZ",
-        'PATH': "../saved_models/diseases/Potato.keras"
+        'PATH': "./saved_models/diseases/Potato.keras"
     },
     'Rice': {
         'URL': "https://drive.google.com/uc?id=12lNUkhX86zuVt5TSosCcZYSUewpCzk2f",
-        'PATH': "../saved_models/diseases/Rice.keras"
+        'PATH': "./saved_models/diseases/Rice.keras"
     },
     'Strawberry': {
         'URL': "https://drive.google.com/uc?id=1p5LuL2PridS3VzYvWNSWMpjTha1lycVY",
-        'PATH': "../saved_models/diseases/Strawberry.keras"
+        'PATH': "./saved_models/diseases/Strawberry.keras"
     },
     'Sugarcane': {
         'URL': "https://drive.google.com/uc?id=1YEgCPsypovHwyV5zoizq5AAEgn6FqWHQ",
-        'PATH': "../saved_models/diseases/Sugarcane.keras"
+        'PATH': "./saved_models/diseases/Sugarcane.keras"
     },
     'Tea': {
         'URL': "https://drive.google.com/uc?id=1sjbOvRDxjO8uJ9qsPKfc2-OZBiTngl_A",
-        'PATH': "../saved_models/diseases/Tea.keras"
+        'PATH': "./saved_models/diseases/Tea.keras"
     },
     'Tomato': {
         'URL': "https://drive.google.com/uc?id=1Q6HJb-Hpqthd_FzSNUEwSwQjlHgB1C3B",
-        'PATH': "../saved_models/diseases/Tomato.keras"
+        'PATH': "./saved_models/diseases/Tomato.keras"
     },
     'Wheat': {
         'URL': "https://drive.google.com/uc?id=1XeDfhammpkNXK3mhd1QJkDiwL3-CfRGx",
-        'PATH':  "../saved_models/diseases/Wheat.keras"
+        'PATH':  "./saved_models/diseases/Wheat.keras"
     }
 }
 
