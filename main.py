@@ -12,6 +12,10 @@ import gdown
 # Initialize FastAPI app
 app = FastAPI()
 
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to the Plant Disease Detection API"}
+
 # Allow all origins for CORS (adjust as necessary)
 app.add_middleware(
     CORSMiddleware,
